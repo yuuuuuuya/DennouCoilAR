@@ -7,7 +7,7 @@ ARFoundationを使い、電脳コイル(アニメ)の世界をイメージした
 
 [![demo](https://github.com/yuuuuuuya/DennouCoil/wiki/images/DennouCoil.gif)](https://github.com/yuuuuuuya/DennouCoil/wiki/images/DennouCoil.gif)
 
-# implementation
+# Implementation
 
 - 一部分のみポストエフェクトをかけない<br>
 Quadオブジェクトと3大のカメラを用意。
